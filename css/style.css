@@ -827,9 +827,11 @@ h2 {
 
   .about-skill {
     display: inline-block;
+    width: 90%;
     padding: 20px;
     background-color: #e6e6e6;
-    margin: 30px 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
   }
 
   .about-skill p {
